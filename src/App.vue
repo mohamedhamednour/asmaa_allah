@@ -14,14 +14,14 @@
    <div class="p-2 ">
     <router-link class="  p-2 m-1 rounded-md text-blue-500  border-b-2	 hover:ml-2  border-blue-500 text-[19px] " to="/budcast">بودكاست </router-link>
     <router-link class=" p-2 m-1 rounded-md  text-blue-500  border-b-2 hover:mr-2  border-blue-500  text-[19px] " to="/azkar">أذكار اليوم </router-link>
-   </div>
+  </div>
    
   </div>
  
   
   
 </nav>
-
+<notifications/>
   <router-view></router-view>
 </div>
 </template>
@@ -30,9 +30,8 @@
 // import Post_data from './components/Post_data.vue' 
 
 export default{
-  // components:{
-  //   Post_data
-  // }
+ 
+ 
 }
 
 

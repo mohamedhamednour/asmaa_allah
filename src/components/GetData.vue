@@ -11,7 +11,7 @@
         <div  v-for="item in alldata" :key="item.name">
          <div class="p-3 m-2 min-h-[250px]  text-blue-500 border border-gray-300 ">
          <h1 class="text-[30px]"> {{ item.name }}</h1>
-         <h1 class="text-[22px] sm:h-[130px] md:h-[125px]"> {{ item.details }}</h1>
+         <h1 class="text-[22px] sm:h-[130px] md:h-[125px]"> {{ item.details.slice(0,100) }} </h1>
 
          
           <button class="bg-blue-500 mt-3 text-white p-2  rounded-md" @click="()=>sendidx(item.id)">Datils</button>
@@ -21,6 +21,10 @@
       
 
     </div>
+    <button class="bg-blue-400 mt-1 w-20 m-2 text-black p-2  rounded-md" @click="()=>valePagnation+= 3">Next</button>
+    <button v-if="valePagnation > 4" class="bg-blue-400 mt-1 w-20 m-2 text-black p-2  rounded-md" @click="()=>valePagnation-= 3">Previos</button>
+
+
 
   </div>
 </template>
@@ -34,7 +38,7 @@ export default {
     return {
       arr: [],
       value: [],
-      valePagnation: 20,
+      valePagnation:12,
       searchQuery: null,
     };
   },
