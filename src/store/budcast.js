@@ -18,6 +18,11 @@ export let budcastwaay = [
         "name": "   السوشيال ميديا وأضرارها",
         "video": "https://www.youtube.com/watch?v=LA-Rfc3EWGU&list=PLCpK4282MCT-lBXi4Nodjzq1TDZsK9qwr&index=17",
         "id": 4
+      },
+      {
+        "name": "النجاح خير انتقام ",
+        "video": "https://www.youtube.com/watch?v=p6OR7S8CTNE",
+        "id": 5
       }
     
      

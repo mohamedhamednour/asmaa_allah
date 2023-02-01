@@ -32,19 +32,19 @@
       "id": 53
     },
     {
-      "name": "السَّلَام",
+      "name": "السلام",
       "video": "https://www.youtube.com/watch?v=UNCzO0NLaqs&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=79",
       "details":" هو ناشر السلام بين الأنام وهو الذي سلمت ذاته من النقص والعيب والفناء",
       "id": 61
     },
     {
-      "name": "المُؤْمِن",
+      "name": "المؤمن",
       "video": "https://www.youtube.com/watch?v=l8GD0QS32UU&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=63",
       "details":"هو الذي سلم أوليائه من عذابه، والذي يصدق عباده ما وعدهم",
       "id": 62
     },
     {
-      "name": "الْمُهَيْمِن",
+      "name": "المهيمن",
       "video": "https://www.youtube.com/watch?v=7EGdUC05iyk&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=69",
       "details":"هو الرقيب الحافظ لكل شيء، القائم على خلقه بأعمالهم، وأرزاقهم وآجالهم، والمطلع على خفايا الأمور وخبايا الصدور",
       "id": 63
@@ -56,7 +56,7 @@
       "id": 64
     },
     {
-      "name": "الْجَبَّار",
+      "name": "الجبار",
       "video": "https://www.youtube.com/watch?v=RsPffpAplJU&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=77",
       "details":"هو الذي تنفذ مشيئته، ولا يخرج أحد عن تقديره، وهو القاهر لخلقه على ما أراد",
       "id": 65
@@ -68,43 +68,43 @@
       "id": 66
     },
     {
-      "name": "الْخَالِق",
+      "name": "الخالق",
       "video": "https://www.youtube.com/watch?v=mrqKi3b8W3o&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=71",
       "details":"هو الفاطر المبدع لكل شيء، والمقدر له والموجد للأشياء من العدم، فهو خالق كل صانع وصنعته",
       "id": 67
     },
     {
-      "name": "الْبَارِئ",
+      "name": "الباري",
       "video": "https://www.youtube.com/watch?v=4quVRIoNqvY&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=75",
       "details":"هو الذي خلق الخلق بقدرته لا عن مثال سابق، القادر على إبراز ما قدره إلى الوجود",
       "id": 68
     },
     {
-      "name": "الْمُصَوِّر",
+      "name": "المصور",
       "video": "https://www.youtube.com/watch?v=TY2dW_fn4-g&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=73",
       "details":" هو الذي صور جميع الموجودات، ورتبها فأعطى كل شيء منها صورة خاصة، وهيئة منفردة، يتميز بها على اختلافها وكثرتها.",
       "id": 69
     },
     {
-      "name": "اَلْغَفَّار",
+      "name": "الغفار",
       "video": "https://www.youtube.com/watch?v=Ql06-WQtOPs&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=153",
       "details":" هو الذي صور جميع الموجودات، ورتبها فأعطى كل شيء منها صورة خاصة، وهيئة منفردة، يتميز بها على اختلافها وكثرتها.",
       "id": 70
     },
     {
-      "name": "الْقَهَّار",
+      "name": "القهار",
       "video": "https://www.youtube.com/watch?v=qHs9Ef3qhsc&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=116",
       "details":" هو الغالب الذي قهر خلقه بسلطانه وقدرته، وخضعت له الرقاب وذلت له الجبابرة، وصرف خلقه على ما أراد طوعا وكرها، وعنت الوجوه له",
       "id": 71
     },
     {
-      "name": "الْوَهَّاب",
+      "name": "الوهاب",
       "video": "https://www.youtube.com/watch?v=_8KZTUfR-VY&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=175",
       "details":" هو المنعم على العباد، الذي يهب بغير عوض ويعطي الحاجة بغير سؤال، كثير النعم، دائم العطاء.",
       "id": 72
     },
     {
-      "name": "الرَّزَّاق",
+      "name": "الرزاق",
       "video": "https://www.youtube.com/watch?v=No4GaKlXcf4&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=13",
       "details":" هو الذي خلق الأرزاق وأعطى كل الخلائق أرزاقها، ويمد كل كائن لما يحتاجه، ويحفظ عليه حياته ويصلحه",
       "id": 73
@@ -116,19 +116,19 @@
       "id": 74
     },
     {
-      "name": "الْعَلِيم",
+      "name": "العليم",
       "video": "https://www.youtube.com/watch?v=idF3GnmmWHo&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=177",
       "details":"هو الذي يعلم تفاصيل الأمور، ودقائق الأشياء وخفايا الضمائر، والنفوس، لا يعزب عنه مثقال ذرة، فعلمه يحيط بجميع الأشياء",
       "id": 75
     },
     {
-      "name": "الْقَابِضُ الْبَاسِطُ",
+      "name": "القابض الباسط",
       "video": "https://www.youtube.com/watch?v=03JUlzgn_AE&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=157",
       "details":"هو الذي يقبض الرزق عمن يشاء من الخلق بعدله وحكمته، والذي يوسع الرزق لمن يشاء من عباده بجوده ورحمته فهو سبحانه القابض الباسط.",
       "id": 76
     },
     {
-      "name": " الخافض* الرَّافِعُ",
+      "name": " الخافض* الرافع",
       "video": "https://www.youtube.com/watch?v=zDQz739Zrxg",
       "details":"هو الذي يخفض الأذلال لكل من طغى وتجبر وخرج على شريعته وتمرد، وهو الذي يرفع عباده المؤمنين بالطاعات ويرفعهم على عدوهم فينصرهم وهو رافع السماوات السبع",
       "id": 77
@@ -140,19 +140,19 @@
       "id": 78
     },
     {
-      "name": "السَّمِيعُ",
+      "name": "السميع",
       "video": "https://www.youtube.com/watch?v=IdooVm87siM&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=95",
       "details":"ومعناه سمعه لجميع الأصوات الظاهرة والباطنة الخفية والجلية، وإحاطته التامة بها، ومعناه أيضًا: سمع الإجابة منه للسائلين والداعين والعابدين فيجيبهم ويثيبهم",
       "id": 79
     },
     {
-      "name": "الْبَصِير",
+      "name": "البصير",
       "video": "https://www.youtube.com/watch?v=yLxSQiYhm0I&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=89",
       "details":"ومعناه سمعه لجميع الأصوات الظاهرة والباطنة الخفية والجلية، وإحاطته التامة بها، ومعناه أيضًا: سمع الإجابة منه للسائلين والداعين والعابدين فيجيبهم ويثيبهم",
       "id": 80
     },
     {
-      "name": "الْحَكَم",
+      "name": "الحكم",
       "video": "https://www.youtube.com/watch?v=JcmOYWMcXTA&list=PLrZGP8WiSiAUxJIYNzJmqy_IDuInri3sJ&index=159",
       "details":"هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه",
       "id": 81
@@ -164,67 +164,67 @@
       "id": 82
     },
     {
-      "name": "اللَّطِيفُ",
+      "name": "اللطيف",
       "video": "https://www.youtube.com/watch?v=zI2S-GEEYik",
       "details":"هو البر الرفيق بعباده، يرزق وييسر ويحسن إليهم، ويرفق بهم ويتفضل عليهم",
       "id": 83
     },
     {
-      "name": "الْخَبِيرُ",
+      "name": "الخبير",
       "video": "https://www.youtube.com/watch?v=cEMHhd_W-Vc",
       "details":" هو العليم بدقائق الأمور، لا تخفى عليه خافية، ولا يغيب عن علمه شيء فهو العالم بما كان ويكون",
       "id": 84
     },
     {
-      "name": "الْحَلِيمُ",
+      "name": "الحليم",
       "video": "https://www.youtube.com/watch?v=dTrE1RpFrtc",
       "details":" هو الصبور الذي يمهل ولا يهمل، ويستر الذنوب، ويؤخر العقوبة، فيرزق العاصي كما يرزق المطيع",
       "id": 85
     },
     {
-      "name": "الْعَظِيمُ",
+      "name": "العظيم",
       "video": "https://www.youtube.com/watch?v=bc8cMw-NCP0",
       "details":"هو العظيم في كل شيء، عظيم في ذاته وأسمائه وصفاته، عظيم في رحمته، عظيم في قدرته، عظيم في حكمته، عظيم في جبروته وكبريائه، عظيم في هبته وعطائه، عظيم في خبرته ولطفه، عظيم في بره وإحسانه، عظيم في عزته وعدله وحمده، فهو العظيم المطلق، فلا أحد يساويه، ولا عظيم يدانيه.",
       "id": 86
     },
     {
-      "name": "الْغَفُورُ",
+      "name": "الغفور",
       "video": "https://www.youtube.com/watch?v=Y-eTw0jRKVI",
       "details":"هو الساتر لذنوب عباده المتجاوز عن خطاياهم وذنوبهم. الفرق بين هذا الاسم واسم الغفار أن اسم الغفور يكون للدلالة على مغفرة الذنب مهما عظم ويأس صاحبه من المغفرة أما الغفار فتدل على مغفرة الله المستمرة للذنوب المختلفة لأن الإنسان خطاء فالله غفار.",
       "id": 87
     },
     {
-      "name": "الشَّكُورُ",
+      "name": "الشكور",
       "video": "https://www.youtube.com/watch?v=soGGE2Opzbc",
       "details":"هو الذي يزكو عنده القليل من أعمال العباد، فيتقبلها ويضاعف أجرها.",
       "id": 88
     },
     {
-      "name": "الْعَلِيُّ",
+      "name": "العلي",
       "video": "https://www.youtube.com/watch?v=isfVWHKBu0o",
       "details":"هو الرفيع القدر فلا يحيط به وصف الواصفين المتعالي عن الأنداد والأضداد، فكل معاني العلو ثابتة له ذاتا وقهرا وشأنا",
       "id": 89
     },
     {
-      "name": "الْكَبِيرُ",
+      "name": "الكبير",
       "video": "https://www.youtube.com/watch?v=QZl6eBDUFDc",
       "details":" هو العظيم الجليل ذو الكبرياء في صفاته وأفعاله فلا يحتاج إلى شيء ولا يعجزه شيء (ليس كمثله شيء).",
       "id": 90
     },
     {
-      "name": "الْحَفِيظُ",
+      "name": "الحفيظ",
       "video": "https://www.youtube.com/watch?v=tqiGN3r0GJY",
       "details":" هو الذي لا يغرب عن حفظه شيء ولو كمثقال الذر فحفظه لا يتبدل ولا يزول ولا يعتريه التبديل",
       "id": 91
     },
     {
-      "name": "المُقِيت",
+      "name": "المقيت",
       "video": "https://www.youtube.com/watch?v=aL696LWFbpk",
       "details":" هو المتكفل بإيصال أقوات الخلق إليهم وهو الحفيظ والمقتدر والقدير والمقدر والممدد.",
       "id": 92
     },
     {
-      "name": "الْحَسِيبُ",
+      "name": "الحسيب",
       "video": "https://www.youtube.com/watch?v=0KsBkQM61jU",
       "details":" هو الكافي الذي منه كفاية العباد وهو الذي عليه الاعتماد يكفي العباد بفضله.",
       "id": 93
@@ -236,39 +236,101 @@
       "id": 94
     },
     {
-      "name": "الْكَرِيمُ",
+      "name": "الكريم",
       "video": "https://www.youtube.com/watch?v=c-C_RrssIe8",
       "details":" هو الكثير الخير الجواد المعطي الذي لا ينفذ عطاؤه وهو الكريم المطلق الجامع لأنواع الخير والشرف والفضائل المحمود بفعاله",
       "id": 95
     },
     {
-      "name": "الرَّقِيبُ",
+      "name": "الرقيب",
       "video": "https://www.youtube.com/watch?v=3CNBSYyPR9k",
       "details":"هو الرقيب الذي يراقب أحوال العباد ويعلم أقوالهم ويحصي أعمالهم وهو الحافظ الذي لا يغيب عنه شيء. ",
       "id": 96
     },
     {
-      "name": "الْمُجِيبُ",
+      "name": "المجيب",
       "video": "https://www.youtube.com/watch?v=dlaFl4uDDfE",
       "details":"هو الذي يجيب دعاء من دعاه، وسؤال من سأله، ويقابله بالعطاء والقبول، ولا يسأل أحد سواه.",
       "id": 97
     },
     {
-      "name": "الْوَاسِعُ",
+      "name": "الواسع",
       "video": "https://www.youtube.com/watch?v=YZzAV0YhPOI",
       "details":"هو الذي وسع رزقه جميع خلقه، وسعت رحمته كل شيء المحيط بكل شيء",
       "id": 98
     },
     {
-      "name": "اَلْحَكِيمُ",
+      "name": "الحكيم",
       "video": "https://www.youtube.com/watch?v=T2ckjPJoVr0",
       "details":" هو المحق في تدبيره اللطيف في تقديره الخبير بحقائق الأمور العليم بحكمه المقدور فجميع خلقه وقضاه خير وحكمة وعدل.      ",
       "id": 99
     },
     {
-      "name": "الْوَدُودُ",
+      "name": "الودود",
       "video": "https://www.youtube.com/watch?v=vsLaAAh_aKQ",
       "details":" هو المحب لعباده، والمحبوب في قلوب أوليائه.",
       "id": 100
     },
+    {
+      "name": "المجيب",
+      "video": "https://www.youtube.com/watch?v=dlaFl4uDDfE",
+      "details":"هو الله تمجَّد بفعاله، ومجَّده خلقه لعظمته، والمجيد هو واسع الكرم، ووصف نفسه بالمجيد وهو متضمن كثرة صفات كماله وسعتها، وعدم إحصاء الخلق لها، وسعة أفعاله وكثرة خيره ودوامه. وتعني أيضاً البالغ النهاية في المجد، الكثير الإحسان الجزيل العطاء العظيم البر. تمجد.",
+      "id": 101
+    },
+    {
+      "name": "الباعث",
+      "video": "https://www.youtube.com/watch?v=zR-uxfHsLSg",
+      "details":" هو باعث الخلق يوم القيامة، وباعث رسله إلى العباد، وباعث المعونة إلى العبد",
+      "id": 102
+    },
+    {
+      "name": "الشهيد",
+      "video": "https://www.youtube.com/watch?v=_oXlWNVFvrI",
+      "details":" هو الحاضر الذي لا يغيب عنه شيء، فهو المطلع على كل شيء مشاهد له عليم بتفاصيله",
+      "id": 103
+    },
+    {
+      "name": "الْحَقُّ",
+      "video": "https://www.youtube.com/watch?v=rBIwev_lUKU&list=PL81A95DAE00EA624B&index=118",
+      "details":"هو الذي يحق الحق بكلماته ويؤيد أولياءه فهو المستحق للعبادة",
+      "id": 104
+    },
+    {
+      "name": "الْوَكِيلُ",
+      "video": "https://www.youtube.com/watch?v=51D1s4exoRI&list=PL81A95DAE00EA624B&index=196",
+      "details":"هو الكفيل بالخلق القائم بأمورهم فمن توكل عليه تولاه وكفاه، ومن استغنى به أغناه وأرضاه",
+      "id": 105
+    },
+    {
+      "name": "القوي",
+      "video": "https://www.youtube.com/watch?v=M0fLymSEyM8&list=PL81A95DAE00EA624B&index=120",
+      "details":"هو صاحب القدرة التامة البالغة الكمال غالب لا يُغلب فقوته فوق كل قوة، ولا يرد قضاءه راد، ينفذ أمره، ويمضي قضاؤه في خلقه، شديد عقابه لمن كفر بآياته وجحد حججه",
+      "id": 106
+    },
+    {
+      "name": "المتين",
+      "video": "https://www.youtube.com/watch?v=bLEu9UtFG8c&list=PL81A95DAE00EA624B&index=122",
+      "details":"هو الشديد الذي لا يحتاج في إمضاء حكمه إلى جند أو مدد ولا إلى معين، فهو المتناهي في القوة، التي لا تلحق أفعاله مشقة، ولا يمسه فيها لغوب",
+      "id": 107
+    },
+    {
+      "name": "الولي",
+      "video": "https://www.youtube.com/watch?v=JjAa8aLAGAs&list=PL81A95DAE00EA624B&index=136",
+      "details":"هو المحب الناصر لمن أطاعه، ينصر أولياءه، ويقهر أعداءه، والمتولي الأمور الخلائق ويحفظهم",
+      "id": 108
+    },
+    {
+      "name": "الحميد",
+      "video": "https://www.youtube.com/watch?v=MCAavA04Tk0&list=PL81A95DAE00EA624B&index=143",
+      "details":" هو المستحق للحمد والثناء له منتهى الحمد وأطيبه على ذاته وصفاته وعلى نعمه التي لا تحصى",
+      "id": 109
+    },
+    {
+      "name": "المحصي",
+      "video": "https://www.youtube.com/watch?v=or91YKvc2K8",
+      "details":"هو الذي أحصى كل شيء بعلمه، فلا يفوته منها دقيق ولا جليل",
+      "id": 110
+    },
+
+
   ]
